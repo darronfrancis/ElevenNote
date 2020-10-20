@@ -1,0 +1,9 @@
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
