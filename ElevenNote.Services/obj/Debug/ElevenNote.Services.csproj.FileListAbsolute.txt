@@ -7,3 +7,15 @@ C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Servic
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\EleveNote.Data.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\EleveNote.Data.pdb
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\EleveNote.Data.dll.config
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
